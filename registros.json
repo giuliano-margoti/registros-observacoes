@@ -9,6 +9,16 @@
       "bin": "1x1",
       "campo": "Full Frame",
       "xy": "200, 200"
+    },
+    {
+      "telescopio": "ON",
+      "objeto": "2004 UX10",
+      "inicio": "20:00",
+      "texp": "7",
+      "modo": "Convencional",
+      "bin": "1x1",
+      "campo": "Full Frame",
+      "xy": "100, 100"
     }
   ]
 }
