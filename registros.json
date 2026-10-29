@@ -1,1 +1,14 @@
-{}
+{
+  "2026-4-5": [
+    {
+      "telescopio": "ON",
+      "objeto": "Picasso",
+      "inicio": "00:10",
+      "texp": "2",
+      "modo": "Convencional",
+      "bin": "1x1",
+      "campo": "Full Frame",
+      "xy": "200, 200"
+    }
+  ]
+}
