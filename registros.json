@@ -20,5 +20,26 @@
       "campo": "Full Frame",
       "xy": "100, 100"
     }
+  ],
+  "2026-11-28": [
+    {
+      "telescopio": "ON",
+      "detector": "qhy",
+      "categoria": "Observação",
+      "objeto": "2000 TG64",
+      "inicio": "01:00:00",
+      "duracao": "600s",
+      "texp": "0.2s",
+      "gain": "300",
+      "fov": "512x512",
+      "bin": "1x1",
+      "xy": "512, 512",
+      "foco": "0",
+      "mag_obj": "14",
+      "mag_ast": "15",
+      "arquivo": "test",
+      "comentarios": "teste de input",
+      "timestamp_envio": "2026-11-02T21:52:19.418Z"
+    }
   ]
 }
