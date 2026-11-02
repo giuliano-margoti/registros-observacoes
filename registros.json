@@ -59,6 +59,25 @@
       "arquivo": "flat",
       "comentarios": "teste input",
       "timestamp_envio": "2026-11-02T21:53:12.801Z"
+    },
+    {
+      "telescopio": "ON",
+      "detector": "qhy",
+      "categoria": "Calibração",
+      "objeto": "Dark",
+      "inicio": "03:00:00",
+      "duracao": "10s",
+      "texp": "0.2s",
+      "gain": "300",
+      "fov": "512x512",
+      "bin": "1x1",
+      "xy": "---",
+      "foco": "0",
+      "mag_obj": "---",
+      "mag_ast": "---",
+      "arquivo": "dark",
+      "comentarios": "teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste",
+      "timestamp_envio": "2026-11-02T21:54:31.762Z"
     }
   ]
 }
