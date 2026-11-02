@@ -78,6 +78,25 @@
       "arquivo": "dark",
       "comentarios": "teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste teste",
       "timestamp_envio": "2026-11-02T21:54:31.762Z"
+    },
+    {
+      "telescopio": "ON",
+      "detector": "qhy",
+      "categoria": "Observação",
+      "objeto": "test",
+      "inicio": "---",
+      "duracao": "---",
+      "texp": "---",
+      "gain": "---",
+      "fov": "Full Frame",
+      "bin": "1x1",
+      "xy": "---",
+      "foco": "---",
+      "mag_obj": "---",
+      "mag_ast": "---",
+      "arquivo": "---",
+      "comentarios": "",
+      "timestamp_envio": "2026-11-02T22:08:05.864Z"
     }
   ]
 }
