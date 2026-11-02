@@ -97,6 +97,25 @@
       "arquivo": "---",
       "comentarios": "",
       "timestamp_envio": "2026-11-02T22:08:05.864Z"
+    },
+    {
+      "telescopio": "ON",
+      "detector": "qhy",
+      "categoria": "Observação",
+      "objeto": "2000TG04",
+      "inicio": "01:40:00",
+      "duracao": "600",
+      "texp": "0.2",
+      "gain": "150",
+      "fov": "512x512",
+      "bin": "2x2",
+      "xy": "200,200",
+      "foco": "14100",
+      "mag_obj": "19",
+      "mag_ast": "26",
+      "arquivo": "2000TG04_occ",
+      "comentarios": "céu limpo",
+      "timestamp_envio": "2026-11-02T22:15:16.871Z"
     }
   ]
 }
